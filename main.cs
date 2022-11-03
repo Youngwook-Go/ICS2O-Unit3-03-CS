@@ -20,7 +20,7 @@ class Program
         sphereVolume = Math.PI * Math.Pow(sphereRadius, 3) * 4 / 3;
         
         // this function prints the result
-        Console.WriteLine("\nVolume of the pyramid is : " + sphereVolume.ToString("0.00") + " cm² ");
+        Console.WriteLine("\nVolume of the sphere is : " + sphereVolume.ToString("0.00") + " cm² ");
         Console.WriteLine("\ndone.");
     }
 }
